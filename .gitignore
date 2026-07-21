@@ -1,0 +1,17 @@
+# Obsidian config & workspace files
+.obsidian/
+
+# Obsidian plugin data (if you don't want to share plugin configs)
+.obsidian/plugins/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Trash (deleted notes Obsidian keeps locally)
+.trash/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Obsidian sync conflict files
+*.sync-conflict-*
