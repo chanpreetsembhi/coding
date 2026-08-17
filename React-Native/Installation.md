@@ -1,5 +1,5 @@
 To create a new Expo project:
-Website: https://reactnative.dev/
+Website: [Expo Docs](https://docs.expo.dev)
 
 ```bash
 npx create-expo-app@latest
